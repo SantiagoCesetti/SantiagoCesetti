@@ -13,7 +13,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` student at EPET20
+- :school: I studied at EPET20 and obtained a programming level close to `Junior`
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science`
 - :nerd_face: Always `learning new things`.
